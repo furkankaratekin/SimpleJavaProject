@@ -1,0 +1,1 @@
+Bu projelerde ortalama hava durumu ve mükemmel sayı hesabı yapan 2 proje var
